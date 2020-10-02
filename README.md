@@ -19,3 +19,5 @@ https://mybinder.org/v2/gh/edwillzy/MLdemo/master?urlpath=lab/tree/demo.ipynb
 
 Jupyter Notebook:
 https://mybinder.org/v2/gh/edwillzy/MLdemo/master?filepath=demo.ipynb
+
+部署配置参考：https://github.com/wshuyi/demo-spacy-text-processing
