@@ -1,8 +1,8 @@
 # CouldIDE for Python Base on Docker and Jupyter
 
-本工具利用repo2docker(https://github.com/jupyter/repo2docker)实现了云端IDE的部署和配置，通过浏览器即可在任意设备上实现Python的轻量级开发。
+本工具利用 repo2docker(https://github.com/jupyter/repo2docker) 实现了云端IDE的部署和配置，通过浏览器即可在任意设备上实现Python的轻量级开发。
 
-repo2docker在服务器端的配置在此不做赘述，仅就在Binder(https://mybinder.org/)平台上部署进行简易说明。
+repo2docker在服务器端的配置在此不做赘述，仅就在 Binder(https://mybinder.org/) 平台上部署进行简易说明。
 
 environment.yml、postBuild文件为基础环境配置，Pipfile、Pipfile.lock为所需库配置。
 
