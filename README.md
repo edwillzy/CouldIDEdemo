@@ -12,6 +12,8 @@ GitHub repository name or URL处填写GitHub代码仓库链接，后两项(Git b
 
 初次加载时可能较慢，待Docker部署完成后再次开启便无需长时间等待。
 
+链接格式参考如下：
+
 Jupyter Lab:
 https://mybinder.org/v2/gh/edwillzy/MLdemo/master?urlpath=lab/tree/demo.ipynb
 
