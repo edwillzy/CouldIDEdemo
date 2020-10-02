@@ -15,9 +15,9 @@ GitHub repository name or URL处填写GitHub代码仓库链接，后两项(Git b
 链接格式参考如下：
 
 Jupyter Lab:
-https://mybinder.org/v2/gh/edwillzy/MLdemo/master?urlpath=lab/tree/demo.ipynb
+https://mybinder.org/v2/gh/edwillzy/CouldIDEdemo/master?urlpath=lab/tree/demo.ipynb
 
 Jupyter Notebook:
-https://mybinder.org/v2/gh/edwillzy/MLdemo/master?filepath=demo.ipynb
+https://mybinder.org/v2/gh/edwillzy/CouldIDEdemo/master?filepath=demo.ipynb
 
 部署配置参考：https://github.com/wshuyi/demo-spacy-text-processing
